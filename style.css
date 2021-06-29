@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+.block-container {
+    background-color: rgb(0, 0, 0);
+}
+.main {
+    background-color: rgb(0, 0, 0);
+}
+.css-145kmo2{
+    color: rgb(255, 255, 255);
+}
+.css-j075dz{
+    color: rgb(255, 255, 255);
+}
+.fullScreenFrame > div {
+    display: flex;
+    justify-content: center;
+
+}
+
+.element-container > div{
+    display: flex;
+    justify-content: center;
+}
+
+mark {
+    background-color: yellow;
+    color: white;
+  }
